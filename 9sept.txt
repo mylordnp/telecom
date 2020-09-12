@@ -1,0 +1,8 @@
+** keybord and mouse events.
+
+right click= context click,
+left click= duble click,
+
+
+https://www.toolsqa.com/selenium-webdriver/keyboard-events/
+
